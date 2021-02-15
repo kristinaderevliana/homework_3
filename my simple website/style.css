@@ -1,0 +1,60 @@
+body {
+  margin: 0px;
+}
+
+.header {
+  height: 40px;
+  background-color: #a52a2a;
+  color: #fff;
+
+  display: flex;
+  justify-content: center;
+}
+
+.info {
+  display: block;
+  width: 765px;
+  margin: auto;
+}
+
+p {
+  font-size: 18px;
+
+  text-align: justify;
+}
+
+.link1 {
+  text-decoration: none;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.link2 {
+  text-decoration: none;
+}
+
+figure {
+  max-width: 410px;
+  display: block;
+  margin: auto;
+}
+
+.img {
+  border: 3px dashed #000;
+}
+
+footer {
+  height: 30px;
+  background-color: #000;
+  color: #fff;
+
+  font-size: 20px;
+  align-items: center;
+
+  display: flex;
+  justify-content: center;
+}
+
+i {
+  font-size: 15px;
+}
